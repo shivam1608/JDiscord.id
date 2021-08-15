@@ -1,6 +1,9 @@
 # JDiscord.id
 JDiscordID is the User Information Grabber Asynchronous Libarary for Discord Only by Using UserID. Easy To Use also can get Public Data of Any Discord User by its UserID.
 
+# Why?
+I got some free time so i made this and maybe i use this in future because most of the Discord API Wrappers don't provide global user data and only shows details about user in a Guild. (if they do so idk i just made this)
+
 ### Version : 0.1
 
 ## Add to your projects
@@ -151,4 +154,7 @@ public class Main implements EventAdapter {
         System.out.println("ResponseCode : "+ response.getResponseCode());
 ```
 
-
+## Credits
+- shivzee/shivam1608 made the whole lib alone
+- IDE used [IntelliJ](https://www.jetbrains.com/idea/)
+- Used [JSON Simple](https://github.com/fangyidong/json-simple)
