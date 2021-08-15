@@ -49,3 +49,17 @@ Download the jar from this repo or release page
 out/artifact/JReplDB_Jar
 ```
 
+### How to Get Token
+- Go to https://discord.com/developers
+- Create a Application
+- Click on New Bot
+- There you can find Bot Token
+
+## DOCS
+Here's the Doc to Use Lib
+### First Create an Instance 
+```java
+JDiscordID id = new JDiscordID("TOKEN_HERE");
+```
+
+
